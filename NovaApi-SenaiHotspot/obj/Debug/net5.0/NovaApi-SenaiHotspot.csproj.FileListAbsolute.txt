@@ -1,0 +1,7 @@
+C:\Users\40263753824.INFOSCS\Desktop\NovaApi-Senai\NovaApi-SenaiHotspot\obj\Debug\net5.0\NovaApi-SenaiHotspot.csproj.AssemblyReference.cache
+C:\Users\40263753824.INFOSCS\Desktop\NovaApi-Senai\NovaApi-SenaiHotspot\obj\Debug\net5.0\NovaApi-SenaiHotspot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\40263753824.INFOSCS\Desktop\NovaApi-Senai\NovaApi-SenaiHotspot\obj\Debug\net5.0\NovaApi-SenaiHotspot.AssemblyInfoInputs.cache
+C:\Users\40263753824.INFOSCS\Desktop\NovaApi-Senai\NovaApi-SenaiHotspot\obj\Debug\net5.0\NovaApi-SenaiHotspot.AssemblyInfo.cs
+C:\Users\40263753824.INFOSCS\Desktop\NovaApi-Senai\NovaApi-SenaiHotspot\obj\Debug\net5.0\NovaApi-SenaiHotspot.csproj.CoreCompileInputs.cache
+C:\Users\40263753824.INFOSCS\Desktop\NovaApi-Senai\NovaApi-SenaiHotspot\obj\Debug\net5.0\NovaApi-SenaiHotspot.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\40263753824.INFOSCS\Desktop\NovaApi-Senai\NovaApi-SenaiHotspot\obj\Debug\net5.0\NovaApi-SenaiHotspot.MvcApplicationPartsAssemblyInfo.cache
